@@ -1,0 +1,338 @@
+
+#EXTM3U
+#EXTINF:-1,PT: RTP 1 FHD
+http://30frasiiii.hopto.me:80/0000/0000/247739
+#EXTINF:-1,PT: RTP 1 HD
+http://30frasiiii.hopto.me:80/0000/0000/247740
+#EXTINF:-1,PT: RTP 2 FHD
+http://30frasiiii.hopto.me:80/0000/0000/247741
+#EXTINF:-1,PT: RTP 2 HD
+http://30frasiiii.hopto.me:80/0000/0000/247742
+#EXTINF:-1,PT: SIC FHD
+http://30frasiiii.hopto.me:80/0000/0000/247743
+#EXTINF:-1,PT: SIC HD
+http://30frasiiii.hopto.me:80/0000/0000/247744
+#EXTINF:-1,PT: TVI FHD
+http://30frasiiii.hopto.me:80/0000/0000/247745
+#EXTINF:-1,PT: TVI HD
+http://30frasiiii.hopto.me:80/0000/0000/247746
+#EXTINF:-1,PT: CINEMUNDO
+http://30frasiiii.hopto.me:80/0000/0000/247653
+#EXTINF:-1,PT: CINEMUNDO FHD
+http://30frasiiii.hopto.me:80/0000/0000/247652
+#EXTINF:-1,PT: AMC
+http://30frasiiii.hopto.me:80/0000/0000/247651
+#EXTINF:-1,PT: AMC FHD
+http://30frasiiii.hopto.me:80/0000/0000/247650
+#EXTINF:-1,PT: FOX MOVIES
+http://30frasiiii.hopto.me:80/0000/0000/247649
+#EXTINF:-1,PT: FOX MOVIES FHD
+http://30frasiiii.hopto.me:80/0000/0000/247648
+#EXTINF:-1,PT: AXN MOVIES FHD
+http://30frasiiii.hopto.me:80/0000/0000/247647
+#EXTINF:-1,PT: HOLLYWOOD
+http://30frasiiii.hopto.me:80/0000/0000/247646
+#EXTINF:-1,PT: HOLLYWOOD FHD
+http://30frasiiii.hopto.me:80/0000/0000/247645
+#EXTINF:-1,PT: TVCINE ACTION FHD
+http://30frasiiii.hopto.me:80/0000/0000/247643
+#EXTINF:-1,PT: TVCINE EMOTION FHD
+http://30frasiiii.hopto.me:80/0000/0000/247641
+#EXTINF:-1,PT: TVCINE EDITION
+http://30frasiiii.hopto.me:80/0000/0000/247640
+#EXTINF:-1,PT: TVCINE EDITION FHD
+http://30frasiiii.hopto.me:80/0000/0000/247639
+#EXTINF:-1,PT: TVCINE TOP
+http://30frasiiii.hopto.me:80/0000/0000/247638
+#EXTINF:-1,PT: TVCINE TOP FHD
+http://30frasiiii.hopto.me:80/0000/0000/247637
+#EXTINF:-1,PT: NOS STUDIOS FHD
+http://30frasiiii.hopto.me:80/0000/0000/247636
+#EXTINF:-1,PT: AXN
+http://30frasiiii.hopto.me:80/0000/0000/247622
+#EXTINF:-1,PT: AXN FHD
+http://30frasiiii.hopto.me:80/0000/0000/247621
+#EXTINF:-1,PT: AXN WHITE
+http://30frasiiii.hopto.me:80/0000/0000/247624
+#EXTINF:-1,PT: AXN WHITE FHD
+http://30frasiiii.hopto.me:80/0000/0000/247623
+#EXTINF:-1,PT: FOX
+http://30frasiiii.hopto.me:80/0000/0000/247626
+#EXTINF:-1,PT: FOX COMEDY
+http://30frasiiii.hopto.me:80/0000/0000/247632
+#EXTINF:-1,PT: FOX COMEDY FHD
+http://30frasiiii.hopto.me:80/0000/0000/247631
+#EXTINF:-1,PT: FOX CRIME
+http://30frasiiii.hopto.me:80/0000/0000/247630
+#EXTINF:-1,PT: FOX CRIME FHD
+http://30frasiiii.hopto.me:80/0000/0000/247629
+#EXTINF:-1,PT: FOX FHD
+http://30frasiiii.hopto.me:80/0000/0000/247625
+#EXTINF:-1,PT: FOX LIFE
+http://30frasiiii.hopto.me:80/0000/0000/247628
+#EXTINF:-1,PT: FOX LIFE FHD
+http://30frasiiii.hopto.me:80/0000/0000/247627
+#EXTINF:-1,PT: SYFY
+http://30frasiiii.hopto.me:80/0000/0000/247634
+#EXTINF:-1,PT: SYFY FHD
+http://30frasiiii.hopto.me:80/0000/0000/247633
+#EXTINF:-1,PT: BIGGS
+http://30frasiiii.hopto.me:80/0000/0000/247611
+#EXTINF:-1,PT: CANAL PANDA
+http://30frasiiii.hopto.me:80/0000/0000/247612
+#EXTINF:-1,PT: DISNEY CHANNEL
+http://30frasiiii.hopto.me:80/0000/0000/247609
+#EXTINF:-1,PT: DISNEY JUNIOR
+http://30frasiiii.hopto.me:80/0000/0000/247610
+#EXTINF:-1,PT: JIM JAM
+http://30frasiiii.hopto.me:80/0000/0000/247615
+#EXTINF:-1,PT: NICKELODEON
+http://30frasiiii.hopto.me:80/0000/0000/247616
+#EXTINF:-1,PT: SIC K
+http://30frasiiii.hopto.me:80/0000/0000/247614
+#EXTINF:-1,PT: SIC K HD
+http://30frasiiii.hopto.me:80/0000/0000/247613
+#EXTINF:-1,PT: 24 KITCHEN FHD
+http://30frasiiii.hopto.me:80/0000/0000/247719
+#EXTINF:-1,PT: CANAL Q
+http://30frasiiii.hopto.me:80/0000/0000/247720
+#EXTINF:-1,PT: CASA E COZINHA FHD
+http://30frasiiii.hopto.me:80/0000/0000/247718
+#EXTINF:-1,PT: SIC CARAS
+http://30frasiiii.hopto.me:80/0000/0000/247708
+#EXTINF:-1,PT: SIC CARAS FHD
+http://30frasiiii.hopto.me:80/0000/0000/247707
+#EXTINF:-1,PT: SIC MULHER
+http://30frasiiii.hopto.me:80/0000/0000/247706
+#EXTINF:-1,PT: SIC MULHER FHD
+http://30frasiiii.hopto.me:80/0000/0000/247705
+#EXTINF:-1,PT: SIC RADICAL
+http://30frasiiii.hopto.me:80/0000/0000/247704
+#EXTINF:-1,PT: SIC RADICAL FHD
+http://30frasiiii.hopto.me:80/0000/0000/247703
+#EXTINF:-1,PT: TVI FICCAO
+http://30frasiiii.hopto.me:80/0000/0000/247710
+#EXTINF:-1,PT: TVI FICCAO FHD
+http://30frasiiii.hopto.me:80/0000/0000/247709
+#EXTINF:-1,PT: TVI REALITY
+http://30frasiiii.hopto.me:80/0000/0000/247712
+#EXTINF:-1,PT: TVI REALITY CAMARA 1
+http://30frasiiii.hopto.me:80/0000/0000/247714
+#EXTINF:-1,PT: TVI REALITY CAMARA 2
+http://30frasiiii.hopto.me:80/0000/0000/247715
+#EXTINF:-1,PT: TVI REALITY CAMARA 3
+http://30frasiiii.hopto.me:80/0000/0000/247716
+#EXTINF:-1,PT: TVI REALITY CAMARA 4
+http://30frasiiii.hopto.me:80/0000/0000/247717
+#EXTINF:-1,PT: TVI REALITY FHD
+http://30frasiiii.hopto.me:80/0000/0000/247711
+#EXTINF:-1,PT: TVI REALITY MOSAICO
+http://30frasiiii.hopto.me:80/0000/0000/247713
+#EXTINF:-1,PT: BLOOMBERG
+http://30frasiiii.hopto.me:80/0000/0000/247587
+#EXTINF:-1,PT: BBC ENTERTAINMENT
+http://30frasiiii.hopto.me:80/0000/0000/247586
+#EXTINF:-1,PT: CRIME INVESTIGATION
+http://30frasiiii.hopto.me:80/0000/0000/247585
+#EXTINF:-1,PT: CRIME INVESTIGATION FHD
+http://30frasiiii.hopto.me:80/0000/0000/247584
+#EXTINF:-1,PT: CBS REALITY
+http://30frasiiii.hopto.me:80/0000/0000/247583
+#EXTINF:-1,PT: KURIAKOS TV
+http://30frasiiii.hopto.me:80/0000/0000/247582
+#EXTINF:-1,PT: CANAL 180
+http://30frasiiii.hopto.me:80/0000/0000/247581
+#EXTINF:-1,PT: BLAZE
+http://30frasiiii.hopto.me:80/0000/0000/247580
+#EXTINF:-1,PT: BLAZE FHD
+http://30frasiiii.hopto.me:80/0000/0000/247579
+#EXTINF:-1,PT: TLC
+http://30frasiiii.hopto.me:80/0000/0000/247578
+#EXTINF:-1,PT: FTV
+http://30frasiiii.hopto.me:80/0000/0000/247577
+#EXTINF:-1,PT: HISTORIA
+http://30frasiiii.hopto.me:80/0000/0000/247576
+#EXTINF:-1,PT: HISTORIA FHD
+http://30frasiiii.hopto.me:80/0000/0000/247575
+#EXTINF:-1,PT: ODISSEIA
+http://30frasiiii.hopto.me:80/0000/0000/247574
+#EXTINF:-1,PT: ODISSEIA FHD
+http://30frasiiii.hopto.me:80/0000/0000/247573
+#EXTINF:-1,PT: DISCOVERY CHANNEL
+http://30frasiiii.hopto.me:80/0000/0000/247572
+#EXTINF:-1,PT: DISCOVERY CHANNEL FHD
+http://30frasiiii.hopto.me:80/0000/0000/247571
+#EXTINF:-1,PT: Nat Geo Wild
+http://30frasiiii.hopto.me:80/0000/0000/247570
+#EXTINF:-1,PT: National Geographic WILD FHD
+http://30frasiiii.hopto.me:80/0000/0000/247569
+#EXTINF:-1,PT: National Geographic
+http://30frasiiii.hopto.me:80/0000/0000/247568
+#EXTINF:-1,PT: National Geographic FHD
+http://30frasiiii.hopto.me:80/0000/0000/247567
+#EXTINF:-1,PT: ID INVESTIGATION DISCOVERY FHD
+http://30frasiiii.hopto.me:80/0000/0000/247566
+#EXTINF:-1,PT: TRAVEL CHANNEL
+http://30frasiiii.hopto.me:80/0000/0000/247565
+#EXTINF:-1,PT: TRAVEL CHANNEL FHD
+http://30frasiiii.hopto.me:80/0000/0000/247564
+#EXTINF:-1,PT: TRACE URBAN
+http://30frasiiii.hopto.me:80/0000/0000/247594
+#EXTINF:-1,PT: TRACE TOCA
+http://30frasiiii.hopto.me:80/0000/0000/247593
+#EXTINF:-1,PT: MEZZO HD
+http://30frasiiii.hopto.me:80/0000/0000/247595
+#EXTINF:-1,PT: MCM TOP
+http://30frasiiii.hopto.me:80/0000/0000/247590
+#EXTINF:-1,PT: MCM POP
+http://30frasiiii.hopto.me:80/0000/0000/247591
+#EXTINF:-1,PT: AFRO MUSIC
+http://30frasiiii.hopto.me:80/0000/0000/247592
+#EXTINF:-1,PT: ARTV
+http://30frasiiii.hopto.me:80/0000/0000/247737
+#EXTINF:-1,PT: BBC WORLD NEWS
+http://30frasiiii.hopto.me:80/0000/0000/247736
+#EXTINF:-1,PT: CNBC EUROPE
+http://30frasiiii.hopto.me:80/0000/0000/247735
+#EXTINF:-1,PT: RECORD NEWS
+http://30frasiiii.hopto.me:80/0000/0000/247734
+#EXTINF:-1,PT: SKY NEWS
+http://30frasiiii.hopto.me:80/0000/0000/247732
+#EXTINF:-1,PT: CNN
+http://30frasiiii.hopto.me:80/0000/0000/247731
+#EXTINF:-1,PT: RTP MEMORIA
+http://30frasiiii.hopto.me:80/0000/0000/247730
+#EXTINF:-1,PT: RTP 3
+http://30frasiiii.hopto.me:80/0000/0000/247729
+#EXTINF:-1,PT: RTP 3 FHD
+http://30frasiiii.hopto.me:80/0000/0000/247728
+#EXTINF:-1,PT: CMTV HD
+http://30frasiiii.hopto.me:80/0000/0000/247727
+#EXTINF:-1,PT: CMTV FHD
+http://30frasiiii.hopto.me:80/0000/0000/247726
+#EXTINF:-1,PT: CNN PORTUGAL
+http://30frasiiii.hopto.me:80/0000/0000/247725
+#EXTINF:-1,PT: CNN PORTUGAL FHD
+http://30frasiiii.hopto.me:80/0000/0000/247724
+#EXTINF:-1,PT: SIC NOTICIAS
+http://30frasiiii.hopto.me:80/0000/0000/247723
+#EXTINF:-1,PT: SIC NOTICIAS FHD
+http://30frasiiii.hopto.me:80/0000/0000/247722
+#EXTINF:-1,PT: FRANCE 24 HD
+http://30frasiiii.hopto.me:80/0000/0000/247554
+#EXTINF:-1,PT: GLOBO
+http://30frasiiii.hopto.me:80/0000/0000/247547
+#EXTINF:-1,PT: GLOBO FHD
+http://30frasiiii.hopto.me:80/0000/0000/247546
+#EXTINF:-1,PT: GLOBO NOW
+http://30frasiiii.hopto.me:80/0000/0000/247549
+#EXTINF:-1,PT: GLOBO NOW FHD
+http://30frasiiii.hopto.me:80/0000/0000/247548
+#EXTINF:-1,PT: M6 HD
+http://30frasiiii.hopto.me:80/0000/0000/247555
+#EXTINF:-1,PT: RTP ACORES
+http://30frasiiii.hopto.me:80/0000/0000/247552
+#EXTINF:-1,PT: RTP AFRICA
+http://30frasiiii.hopto.me:80/0000/0000/247553
+#EXTINF:-1,PT: RTP MADEIRA
+http://30frasiiii.hopto.me:80/0000/0000/247551
+#EXTINF:-1,PT: TPA INTERNACIONAL
+http://30frasiiii.hopto.me:80/0000/0000/247562
+#EXTINF:-1,PT: TV GALICIA
+http://30frasiiii.hopto.me:80/0000/0000/247559
+#EXTINF:-1,PT: TV RECORD
+http://30frasiiii.hopto.me:80/0000/0000/247550
+#EXTINF:-1,PT: TV5 MONDE
+http://30frasiiii.hopto.me:80/0000/0000/247556
+#EXTINF:-1,PT: TVC NEWS
+http://30frasiiii.hopto.me:80/0000/0000/247560
+#EXTINF:-1,PT: TVE 24H
+http://30frasiiii.hopto.me:80/0000/0000/247558
+#EXTINF:-1,PT: TVE INTERNACIONAL
+http://30frasiiii.hopto.me:80/0000/0000/247557
+#EXTINF:-1,PT: ZAP VIVA
+http://30frasiiii.hopto.me:80/0000/0000/247561
+#EXTINF:-1,PT: A BOLA
+http://30frasiiii.hopto.me:80/0000/0000/247683
+#EXTINF:-1,PT: A BOLA TV FHD
+http://30frasiiii.hopto.me:80/0000/0000/247682
+#EXTINF:-1,PT: BTV 1 FHD
+http://30frasiiii.hopto.me:80/0000/0000/247684
+#EXTINF:-1,PT: BTV 1 HD
+http://30frasiiii.hopto.me:80/0000/0000/247694
+#EXTINF:-1,PT: CANAL 11 FHD
+http://30frasiiii.hopto.me:80/0000/0000/247681
+#EXTINF:-1,PT: CAZA y PESCA FHD
+http://30frasiiii.hopto.me:80/0000/0000/247695
+#EXTINF:-1,PT: FUEL TV FHD
+http://30frasiiii.hopto.me:80/0000/0000/247700
+#EXTINF:-1,PT: KOMBAT SPORT brasil
+http://30frasiiii.hopto.me:80/0000/0000/247697
+#EXTINF:-1,PT: MOTORVISION
+http://30frasiiii.hopto.me:80/0000/0000/247699
+#EXTINF:-1,PT: MOTORVISION FHD
+http://30frasiiii.hopto.me:80/0000/0000/247698
+#EXTINF:-1,PT: PFC
+http://30frasiiii.hopto.me:80/0000/0000/247701
+#EXTINF:-1,PT: PORTO CANAL
+http://30frasiiii.hopto.me:80/0000/0000/247687
+#EXTINF:-1,PT: PORTO CANAL FHD
+http://30frasiiii.hopto.me:80/0000/0000/247686
+#EXTINF:-1,PT: ELEVEN SPORTS 1 FHD
+http://30frasiiii.hopto.me:80/0000/0000/247669
+#EXTINF:-1,PT: ELEVEN SPORTS 1 HD
+http://30frasiiii.hopto.me:80/0000/0000/247670
+#EXTINF:-1,PT: ELEVEN SPORTS 2 FHD
+http://30frasiiii.hopto.me:80/0000/0000/247671
+#EXTINF:-1,PT: ELEVEN SPORTS 2 HD
+http://30frasiiii.hopto.me:80/0000/0000/247672
+#EXTINF:-1,PT: ELEVEN SPORTS 3 FHD
+http://30frasiiii.hopto.me:80/0000/0000/247673
+#EXTINF:-1,PT: ELEVEN SPORTS 3 HD
+http://30frasiiii.hopto.me:80/0000/0000/247674
+#EXTINF:-1,PT: ELEVEN SPORTS 4 FHD
+http://30frasiiii.hopto.me:80/0000/0000/247675
+#EXTINF:-1,PT: ELEVEN SPORTS 4 HD
+http://30frasiiii.hopto.me:80/0000/0000/247676
+#EXTINF:-1,PT: ELEVEN SPORTS 5 FHD
+http://30frasiiii.hopto.me:80/0000/0000/247677
+#EXTINF:-1,PT: ELEVEN SPORTS 5 HD
+http://30frasiiii.hopto.me:80/0000/0000/247678
+#EXTINF:-1,PT: ELEVEN SPORTS 6 FHD
+http://30frasiiii.hopto.me:80/0000/0000/247679
+#EXTINF:-1,PT: ELEVEN SPORTS 6 HD
+http://30frasiiii.hopto.me:80/0000/0000/247680
+#EXTINF:-1,PT: SPORT TV + FHD
+http://30frasiiii.hopto.me:80/0000/0000/247655
+#EXTINF:-1,PT: SPORT TV + HD
+http://30frasiiii.hopto.me:80/0000/0000/247656
+#EXTINF:-1,PT: SPORT TV 1 FHD
+http://30frasiiii.hopto.me:80/0000/0000/247657
+#EXTINF:-1,PT: SPORT TV 1 HD
+http://30frasiiii.hopto.me:80/0000/0000/247658
+#EXTINF:-1,PT: SPORT TV 2 FHD
+http://30frasiiii.hopto.me:80/0000/0000/247659
+#EXTINF:-1,PT: SPORT TV 2 HD
+http://30frasiiii.hopto.me:80/0000/0000/247660
+#EXTINF:-1,PT: SPORT TV 3 FHD
+http://30frasiiii.hopto.me:80/0000/0000/247661
+#EXTINF:-1,PT: SPORT TV 3 HD
+http://30frasiiii.hopto.me:80/0000/0000/247662
+#EXTINF:-1,PT: SPORT TV 4 FHD
+http://30frasiiii.hopto.me:80/0000/0000/247663
+#EXTINF:-1,PT: SPORT TV 4 HD
+http://30frasiiii.hopto.me:80/0000/0000/247664
+#EXTINF:-1,PT: SPORT TV 5 FHD
+http://30frasiiii.hopto.me:80/0000/0000/247665
+#EXTINF:-1,PT: SPORT TV 5 HD
+http://30frasiiii.hopto.me:80/0000/0000/247666
+#EXTINF:-1,PT: SPORT TV 6  FHD
+http://30frasiiii.hopto.me:80/0000/0000/247667
+#EXTINF:-1,PT: SPORT TV NBA FHD
+http://30frasiiii.hopto.me:80/0000/0000/247668
+#EXTINF:-1,PT: SPORTING TV
+http://30frasiiii.hopto.me:80/0000/0000/247689
+#EXTINF:-1,PT: SPORTING TV FHD
+http://30frasiiii.hopto.me:80/0000/0000/247688
+#EXTINF:-1,PT: TOROS TV
+http://30frasiiii.hopto.me:80/0000/0000/247696
